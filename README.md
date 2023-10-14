@@ -3,7 +3,7 @@ Tableau Visualization for Super Market's  data campaign
 
 Data Cleaninig:
 
-1. Insert a formula to produce the age today
+1. Insert a formula to produce the age, today
 2. Exclude the unnecessary data( with formula)
 3. Group ages for analysis
 
